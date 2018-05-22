@@ -2,7 +2,10 @@
 
 ## What is it?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+This is a stripped-down, personalized version of John Washam's coding-interview-university.
+I plan on tackling these topics over the next few months (May, 2018 - September, 2018), documenting
+my progress by checking off the sections I have completed and leaving detailed descriptions/commits
+regarding any files of my own.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
